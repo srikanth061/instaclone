@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.parent1{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 50px;
+    color: green;
+}
+.btn{
+    background-color: white;
+    width:80px;
+    color: green;
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 4px;
+    font-weight: 500;
+    font-size: 18px;    
+}
+input{
+    padding:4px;
+    font-size: 15px;
+    width:250px;
+    margin-top:10px;
+    margin-bottom: 5px;
+}
